@@ -2,4 +2,3 @@
 *.txt	text
 *.bat  	text eol=crlf
 *.sh	text eol=lf
-*.xml   text eol=crlf
